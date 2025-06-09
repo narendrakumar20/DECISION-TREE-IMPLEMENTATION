@@ -48,3 +48,4 @@ This task provided hands-on experience with the entire lifecycle of a machine le
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/8557feb0-f377-427b-8208-0a191811ff52)
